@@ -2,5 +2,5 @@
 	"name": "Test",
 	"symbol": "TEST",
 	"description": "Descripcion de ejemplo",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/suis-s/test/refs/heads/main/test_image.png"
 }
