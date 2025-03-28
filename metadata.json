@@ -1,6 +1,6 @@
 {
-	"name": "Test",
-	"symbol": "TEST",
+	"name": "pool",
+	"symbol": "POOL",
 	"description": "Descripcion de ejemplo",
 	"image": "https://raw.githubusercontent.com/suis-s/test/refs/heads/main/test_image.png"
 }
